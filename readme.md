@@ -13,5 +13,5 @@
 ### Главный экран, если бд пуста и нет интернета
 ![main_error](https://sun9-6.userapi.com/impg/7EMp4_3d5Nx4Iq6kuD9tjc1iBmIYhvb6sNRRQw/itOKRlCDtHE.jpg?size=288x640&quality=96&sign=07ecd3768e75304a28cd1b68f19cf512&type=album)
 ### Ошибка пагинации
-![paging_error](https://vk.com/im?peers=c307_139459375_128006571&sel=98059751&z=photo98059751_457247869%2Fmail2483793) </br>
+![paging_error](https://sun9-85.userapi.com/impg/iF9LCx20JaqdOSfza04HlQuXsmulIVH9ik6NqA/VputUgEcRzQ.jpg?size=288x640&quality=96&sign=e5aa461e1b254f6651310868493242a4&type=album) </br>
 Элементы указывающие на ошибку кликабельны и вызывают повторную попытку загрузки.
