@@ -12,5 +12,5 @@
 ### Главный экран, если бд пуста и нет интернета
 ![main_error](https://sun9-40.userapi.com/impg/GYOcw6cIKXpbWR6bOYIwVONytHpTt_EMNmqcPA/p1DqhibHVMY.jpg?size=486x1080&quality=96&sign=f80ed7fb1973f0286131b5a305960284&type=album)
 ### Ошибка пагинации
-![paging_error](https://sun9-67.userapi.com/impg/iLKCjkgq0WOey4Xo9CKx7RWUhtgzxduIzvhFOQ/fnfLIb67XdQ.jpg?size=486x1080&quality=96&sign=5d17da4f2f828503b9d0d3723cbfca9c&type=album)
+![paging_error](https://sun9-67.userapi.com/impg/iLKCjkgq0WOey4Xo9CKx7RWUhtgzxduIzvhFOQ/fnfLIb67XdQ.jpg?size=486x1080&quality=96&sign=5d17da4f2f828503b9d0d3723cbfca9c&type=album) </br>
 Элементы указывающие на ошибку кликабельны и вызывают повторную попытку загрузки.
