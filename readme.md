@@ -5,13 +5,13 @@
 В качестве клиента используется библиотека ***Retrofit***.
 
 ### Экран загрузки
-![splah](https://sun9-5.userapi.com/impg/hb-AF7Nqf9gONUjDA_PsAv2JLomMCigmKZc3pg/g1JVeDDRVZU.jpg?size=144x320&quality=96&sign=09811f3595a60938dab871cdacc35c5b&type=album)
+![splah](https://sun9-59.userapi.com/impg/h0hWHWWRUZ0Lit6RTWaBY6M5FwtAt2o60Lac0Q/tEgWy0NQLJk.jpg?size=288x640&quality=96&sign=934b2a259cee50a717ea6ba0cd6ba8cf&type=album)
 ### Главный экран
-![main](https://sun9-86.userapi.com/impg/UsmagFTbhFAPyhXp1wgeasXd4f1wYRCKJDfKmg/lF-W90rlnUI.jpg?size=486x1080&quality=96&sign=90ad4098c93bb2f43ed55011240a5416&type=album)
+![main](https://sun9-34.userapi.com/impg/LK3sGUSf3_TAoOaHTFwGJYfPxSsxSbzikp8ZpQ/b04e5Z7XoLw.jpg?size=288x640&quality=96&sign=b2890228b14e4dfdf1117346e968efae&type=album)
 ### Экран чтения
-![read](https://sun9-26.userapi.com/impg/LCcOI6X4vfOSyC6iI-nRRVW2cWmto4aXujDEpA/DgNTcYGG64k.jpg?size=486x1080&quality=96&sign=8ce3742a02aaa82c0a06b21fbbfbcc66&type=album)
+![read](https://sun9-62.userapi.com/impg/1C-C3x58q3fIDgnVfij-rqYmB19RhuJkTulJZw/3tuWAEnTFA8.jpg?size=288x640&quality=96&sign=3c0c0b271f1389d2e9469ce964ddf620&type=album)
 ### Главный экран, если бд пуста и нет интернета
-![main_error](https://sun9-40.userapi.com/impg/GYOcw6cIKXpbWR6bOYIwVONytHpTt_EMNmqcPA/p1DqhibHVMY.jpg?size=486x1080&quality=96&sign=f80ed7fb1973f0286131b5a305960284&type=album)
+![main_error](https://sun9-6.userapi.com/impg/7EMp4_3d5Nx4Iq6kuD9tjc1iBmIYhvb6sNRRQw/itOKRlCDtHE.jpg?size=288x640&quality=96&sign=07ecd3768e75304a28cd1b68f19cf512&type=album)
 ### Ошибка пагинации
-![paging_error](https://sun9-67.userapi.com/impg/iLKCjkgq0WOey4Xo9CKx7RWUhtgzxduIzvhFOQ/fnfLIb67XdQ.jpg?size=486x1080&quality=96&sign=5d17da4f2f828503b9d0d3723cbfca9c&type=album) </br>
+![paging_error](https://vk.com/im?peers=c307_139459375_128006571&sel=98059751&z=photo98059751_457247869%2Fmail2483793) </br>
 Элементы указывающие на ошибку кликабельны и вызывают повторную попытку загрузки.
