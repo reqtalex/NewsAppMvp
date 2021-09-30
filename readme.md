@@ -3,9 +3,9 @@
 Приложение использует архитектурный паттерн представления MVP - ***Moxy***. Для внедрения зависимотей используется - ***dagger2***.
 Главный экран новостей представляет собой пагинированный список с префетчингом пяти элементов - ***Jetpack Paging 3***, также предусмотено кэширование новостей в локальную базу данных - ***Room***.
 В качестве клиента используется библиотека ***Retrofit***.
-<img src="https://sun9-26.userapi.com/impg/6GyN39sjtz01cZoObgqhFkU8MVjhLIOhCJp0ew/eBFxMfrj8Z8.jpg?size=486x1080&quality=96&sign=569f4b1d66f12a1bca77a74d18b3eb2a&type=album" alt="drawing" hight="150"/>
+
 ### Экран загрузки
-![splah](https://sun9-26.userapi.com/impg/6GyN39sjtz01cZoObgqhFkU8MVjhLIOhCJp0ew/eBFxMfrj8Z8.jpg?size=486x1080&quality=96&sign=569f4b1d66f12a1bca77a74d18b3eb2a&type=album)
+![splah](https://sun9-5.userapi.com/impg/hb-AF7Nqf9gONUjDA_PsAv2JLomMCigmKZc3pg/g1JVeDDRVZU.jpg?size=144x320&quality=96&sign=09811f3595a60938dab871cdacc35c5b&type=album)
 ### Главный экран
 ![main](https://sun9-86.userapi.com/impg/UsmagFTbhFAPyhXp1wgeasXd4f1wYRCKJDfKmg/lF-W90rlnUI.jpg?size=486x1080&quality=96&sign=90ad4098c93bb2f43ed55011240a5416&type=album)
 ### Экран чтения
