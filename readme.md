@@ -3,6 +3,7 @@
 Приложение использует архитектурный паттерн представления MVP - ***Moxy***. Для внедрения зависимотей используется - ***dagger2***.
 Главный экран новостей представляет собой пагинированный список с префетчингом пяти элементов - ***Jetpack Paging 3***, также предусмотено кэширование новостей в локальную базу данных - ***Room***.
 В качестве клиента используется библиотека ***Retrofit***.
+<img src="https://sun9-26.userapi.com/impg/6GyN39sjtz01cZoObgqhFkU8MVjhLIOhCJp0ew/eBFxMfrj8Z8.jpg?size=486x1080&quality=96&sign=569f4b1d66f12a1bca77a74d18b3eb2a&type=album" alt="drawing" hight="150"/>
 ### Экран загрузки
 ![splah](https://sun9-26.userapi.com/impg/6GyN39sjtz01cZoObgqhFkU8MVjhLIOhCJp0ew/eBFxMfrj8Z8.jpg?size=486x1080&quality=96&sign=569f4b1d66f12a1bca77a74d18b3eb2a&type=album)
 ### Главный экран
