@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="retry">retry</string>
+    <string name="disconnect">The network is disconnected. Check the connection and click here</string>
+    <string name="error">Some error…</string>
+    <string name="reading">Enjoy for reading!</string>
+
+</resources>
